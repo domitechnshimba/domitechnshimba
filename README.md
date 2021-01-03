@@ -38,11 +38,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
-[![Twitter: Am Dominic Nshimba 🧑🏾‍💻](https://img.shields.io/twitter/follow/dominicnshimba?style=social)](https://twitter.com/dominicnshimba)
-[![Linkedin: Dominic Nshimba](https://img.shields.io/badge/-nshimbadominic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nshimbadominic/)](https://www.linkedin.com/in/nshimbadominic/)
-[![GitHub domitechnshimba](https://img.shields.io/github/followers/domitechnshimba?label=follow&style=social)](https://github.com/domitechnshimba)
-[![website](https://img.shields.io/badge/Personl Website-DominicNshimba-2648ff?style=flat-square&logo=google-chrome)](https://dominicnshimba.me/)
-
 
 **Languages and Tools:**  
 
@@ -58,13 +53,6 @@
 </a>
 <a href="https://github.com/domitechnshimba">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=domitechnshimba&show_icons=true&theme=light&line_height=27" alt="Dominic Nshimba's github stats"/>
-</a>
-<a href="https://github.com/iampawan/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
-
-</a>
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
 </a>
 
 <div align="center">
