@@ -1,5 +1,8 @@
 # Hello, I'm [Dominic Nshimba!](https://dominicnshimba.me) 👋
 
+[![Website](https://img.shields.io/website?label=dominicnshimba.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dominicnshimba.me)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dominicnshimba?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdomitechnshimba&screen_name=domitechnshimba)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=domitechnshimba&label=Views&color=blue&style=plastic" alt="domitechnshimba" /> </p>
 
 <a href="https://twitter.com/imthepk">
