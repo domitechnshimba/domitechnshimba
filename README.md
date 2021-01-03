@@ -41,7 +41,7 @@
 [![Twitter: Am Dominic Nshimba 🧑🏾‍💻](https://img.shields.io/twitter/follow/dominicnshimba?style=social)](https://twitter.com/dominicnshimba)
 [![Linkedin: Dominic Nshimba](https://img.shields.io/badge/-nshimbadominic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nshimbadominic/)](https://www.linkedin.com/in/nshimbadominic/)
 [![GitHub domitechnshimba](https://img.shields.io/github/followers/domitechnshimba?label=follow&style=social)](https://github.com/domitechnshimba)
-[![website](https://img.shields.io/badge/Personl Website-dominicnshimba.me-2648ff?style=flat-square&logo=google-chrome)](https://dominicnshimba.me/)
+[![website](https://img.shields.io/badge/Personl Website-DominicNshimba-2648ff?style=flat-square&logo=google-chrome)](https://dominicnshimba.me/)
 
 
 **Languages and Tools:**  
