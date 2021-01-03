@@ -30,7 +30,7 @@
 
 - 🔭 I’m Founder Of [Coding Club](https://codingclub.me).
 - 🔭 I’m currently working on [Project Coordinator & Web Developer](https://locazm.com).
-- 🌱 I’m currently learning more about BlockChain.
+- 🌱 I’m currently learning more about Wordpress.
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
 - 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about Flutter or any tech related stuff.
@@ -40,7 +40,7 @@
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
 [![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
+[![GitHub domitechnshimba](https://img.shields.io/github/followers/domitechnshimba?label=follow&style=social)](https://github.com/domitechnshimba)
 [![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
 
 
